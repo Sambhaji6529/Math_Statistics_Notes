@@ -1,1 +1,1 @@
-# Statistics_Notes
+# Math_Statistics_Notes
